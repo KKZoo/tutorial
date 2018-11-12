@@ -2,3 +2,5 @@ Hello, This is a test file.
 This is a clone file.
 Hello, I'm origin.
 Hello, I'm clone.
+
+I'm branch "issue1"
